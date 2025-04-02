@@ -49,7 +49,10 @@ Trabalhando com imagens (Public)
 
 
 
-Trabalhando com imagens (assets)*
+Trabalhando com imagens (Assets)
+
+![flor jpg (Assets)](https://github.com/user-attachments/assets/2021cb63-5cff-4ade-9332-d41385eeea87)
+
 
 
 

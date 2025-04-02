@@ -1,20 +1,12 @@
 import React from 'react'
+import TrabalhandoComImagens from './components/TrabalhandoComImagens'
 
-const RenderizaBackOuFront = () => {
-    function escolhaDeRenderizacao(oQueRenderizar){
-        if(oQueRenderizar === "Java"){
-            return <h1>backend</h1>
-        } else{
-            return <b>frontend</b>
-        }
-
-    }
-return (
+const App = () => {
+  return (
     <div>
-        {escolhaDeRenderizacao("Java")}
-        {escolhaDeRenderizacao("React")}
+    <TrabalhandoComImagens/>
     </div>
-)
+  )
 }
 
-export default RenderizaBackOuFront
+export default App

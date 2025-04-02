@@ -3,10 +3,10 @@ import React from 'react'
 const RenderizaBackOuFront = () => {
 
     function escolhaDeRenderizacao(oQueRenderizar) {
-        if (oQueRenderizar === "java") {
-            return <h1>Backend</h1>
+        if (oQueRenderizar === "Java") {
+            return <h1>Java</h1>
         } else {
-            return <b>Frontend</b>
+            return <h1>React</h1>
         }
     }
 

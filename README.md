@@ -70,7 +70,7 @@ Aluno2 para renderizar "nome, email, curso e status com aprovado ou reprovado"
 
 
 
-Estou com sono usando props para rederizar "Bora estudar mais um pouco"
+Estou com sono usando props para renderizar "Bora estudar mais um pouco"
 
 ![Atividade aula3 Questão2](https://github.com/user-attachments/assets/17a6d77b-afd4-4f26-9aa1-7d99299e9609)
 

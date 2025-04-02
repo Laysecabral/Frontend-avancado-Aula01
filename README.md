@@ -16,7 +16,7 @@ Contador com adição de incremento e decremento.
 
 Megasena
 
-![Re](https://github.com/user-attachments/assets/7ef8ba13-38a9-412f-9237-61ad7f8c1600)
+![Questão mega sena](https://github.com/user-attachments/assets/6647f71d-4b69-4ce7-bfa7-dbdec0a4f359)
 
 Quina
 

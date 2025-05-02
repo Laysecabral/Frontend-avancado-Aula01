@@ -110,6 +110,9 @@ Endpoint buscando aluno pelo id
 
 ![aula5 2](https://github.com/user-attachments/assets/c89330a1-8a33-4dff-acbd-00f7650143c4)
 
+Tabela alunos 
+
+![Captura de tela 2025-05-02 104535](https://github.com/user-attachments/assets/7cc03e91-7bef-447b-9234-37865b620adc)
 
 
 
